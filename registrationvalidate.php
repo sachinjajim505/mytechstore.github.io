@@ -39,3 +39,17 @@ $con=mysqli_connect("localhost","root","");
  }
 
 ?>
+
+<html>
+     <head>
+     </head>
+     <body>
+          <a href="index.html">click here to move on home page</a>
+     </body>
+</html>
+
+
+
+
+
+
