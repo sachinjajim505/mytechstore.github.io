@@ -1,0 +1,112 @@
+*{margin: 0;  padding: 0;  box-sizing: border-box;
+   
+    
+     
+}
+.header{
+	background-image:url('techlogin.jpg');
+	background-repeat:no-repeat;
+	width:100%;
+	height:100vh;
+	position:relative;
+	background-size:100% 100%;
+}
+
+
+#userimg{
+    width:90px;
+    height:90px;
+    border-radius:100%;
+    position: absolute;
+    left:100px;
+    top:-45px;
+}
+
+
+.container{
+    position:absolute;
+    top:90px;
+    left:500px;
+    width:300px;
+    height:63%;
+    background: rgba(41, 0, 221, 0.842);
+    
+}
+.container h2{
+    text-align: center;
+    font-weight: 700;
+    color: #fff;
+    font-size: 1.3rem;
+	position:absolute;
+	top:50px;
+	left:48px;
+    
+   
+}
+
+
+.loginbutton{
+    border: 1px solid #50d1c0;
+    border-radius: 100px;
+    margin:0 10px;
+    padding: 5px 20px;
+    outline: none;
+    
+    font-size: 1rem;
+    font-weight: 400;
+    text-align: center;
+    line-height: 1.4;
+   position: absolute;
+   background: #50d1c0;
+   color:#FFF;
+   left:66px;
+  
+  
+}
+
+.loginbutton:hover{
+    background: #fff;
+    color:#50d1c0;
+   
+}
+.loginform{
+    position: absolute;
+    top:90px;
+	left:30px;
+	padding-right:5px;
+	width:250px;
+    
+   
+}
+.loginform input{
+	padding:10px;
+}
+
+
+
+
+
+.form-group i{
+    position:absolute;
+    color:#000000;
+	left:214px;
+	top:175px;
+    
+    
+}
+
+
+h5{
+    text-align: center;
+    font-weight: 700;
+    color: #fff;
+    font-size: 0.8rem;
+    position:absolute;
+	top:355px;
+	left:40px;
+   
+    
+}
+
+   
+
